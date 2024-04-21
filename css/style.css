@@ -15,7 +15,7 @@ a {
 }
 
 section {
-    min-height: 100svh;
+    min-height: 100lvh;
     position: relative;
     scroll-snap-align: start;
     scroll-snap-stop: always;
