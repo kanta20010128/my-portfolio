@@ -763,7 +763,6 @@ section {
         display: flex;
         align-self: flex-start;
         margin: 0;
-        order: 2;
     }
 
     .top-btn > span {
@@ -1496,7 +1495,6 @@ section {
         display: flex;
         align-self: flex-start;
         margin: 0 0 60px;
-        order: 2;
     }
 
     .top-btn > span {
