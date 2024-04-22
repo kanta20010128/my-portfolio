@@ -234,9 +234,9 @@ section {
         display: none;
         flex-direction: row-reverse;
         gap: 30px;
-        margin: 0 0 0 100spx;
+        margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
