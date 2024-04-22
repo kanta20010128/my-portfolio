@@ -221,7 +221,7 @@ section {
         gap: 30px;
         margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -234,7 +234,7 @@ section {
         display: none;
         flex-direction: row-reverse;
         gap: 30px;
-        margin: 0 0 0 100px;
+        margin: 0 0 0 100spx;
         padding: 3%;
         height: 100vh;
         box-sizing: border-box;
@@ -251,7 +251,7 @@ section {
         gap: 30px;
         margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -266,7 +266,7 @@ section {
         gap: 30px;
         margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -281,7 +281,7 @@ section {
         gap: 30px;
         margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -296,7 +296,7 @@ section {
         gap: 30px;
         margin: 0 0 0 100px;
         padding: 3%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -370,11 +370,11 @@ section {
         font-family: "Rubik", sans-serif;
         font-optical-sizing: auto;
         font-weight: 900;
-        font-size: 40px;
+        font-size: 30px;
         color: #FFEEDC;
         text-align: center;
         margin: 0;
-        padding: 30% 0 30%;
+        padding: 20% 0 20%;
     }
 
     .works-modal-h2::after {
@@ -385,7 +385,7 @@ section {
         width: 100%;
         border-radius: 20px;
         background-color: #FFEEDC;
-        margin-top: 30%;
+        margin-top: 20%;
     }
 
     .works-modal-h3 {
@@ -564,7 +564,7 @@ section {
         height: 100%;
         background-image: url(../images/about/plofile.png);
         background-size: auto 100%;
-        background-position: center;
+        background-position: right;
         background-repeat: no-repeat;
         transition: 0.5s all;
         z-index: -1;
@@ -988,7 +988,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1003,7 +1003,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1018,7 +1018,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1033,7 +1033,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1048,7 +1048,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1063,7 +1063,7 @@ section {
         gap: 5%;
         margin: 0 0 0 50px;
         padding: 4%;
-        height: 100vh;
+        height: 100svh;
         box-sizing: border-box;
         background: linear-gradient(#1F2858, #3C3885,#7864A1, #F29F8D, #F07A4C);
         border-radius: 20px 0 0 20px;
@@ -1306,7 +1306,7 @@ section {
         height: 100%;
         background-image: url(../images/about/plofile.png);
         background-size: 100% auto;
-        background-position: center;
+        background-position: right;
         background-repeat: no-repeat;
         transition: 0.5s all;
         z-index: -1;
