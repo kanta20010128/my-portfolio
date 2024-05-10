@@ -19,8 +19,6 @@ section {
     position: relative;
     scroll-snap-align: start;
     scroll-snap-stop: always;
-    object-fit: cover;
-    object-position: center;
 }
 
 
@@ -34,6 +32,10 @@ section {
     
     .jp {
         font-size: 20px;
+    }
+
+    .jp-info {
+        font-size: 13px;
     }
     
     .en {
@@ -172,7 +174,7 @@ section {
         cursor: pointer;
     }
 
-    .slick-slide:hover .works-img > img{
+    .slick-slide:hover .works-img > img {
         transform: scale(1.05, 1.05);
         transition: 0.5s all;
     }
@@ -631,7 +633,6 @@ section {
         background-image: url(../images/about/insta.png);
         background-position: center;
         background-repeat: no-repeat;
-        background-position: center;
         transition: 0.5s all;
         z-index: -1;
     }
@@ -800,6 +801,10 @@ section {
     
     .jp {
         font-size: 15px;
+    }
+
+    .jp-info {
+        font-size: 10px;
     }
     
     .en {
